@@ -1,5 +1,5 @@
 Description:
-This sample  project makes insert,update and delete by using spring mvc and mysql database.
+This sample  project makes insert,update and delete by using spring mvc,hibernate and mysql database.
 
 Heroku link will be added soon.
 Technologies used:
